@@ -1,2 +1,2 @@
 # serviceD
-A high-performance implementation of service discovery based on RAFT protocol in Golang
+A high-performance implementation of service discovery based on Raft protocol in Golang
