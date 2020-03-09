@@ -1,0 +1,8 @@
+{
+  "bootstrap": false,
+  "http": 16000,
+  "tcp": 17000,
+  "name": "raft-node1",
+  "slaveOf": "1270.0.1:16001",
+  "ttl": 30
+}
